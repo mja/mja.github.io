@@ -11,3 +11,18 @@ I am a statistical geneticist in the [Mental Health Data Science Scotland](https
 - [Google Scholar Profile](http://scholar.google.co.uk/citations?user=H1KpjEQAAAAJ&hl=en)
 - ORCID iD: [0000-0002-3599-6018](https://orcid.org/0000-0002-3599-6018
 )
+
+### Education
+
+2012 **PhD Psychology**  
+[University of Edinburgh](https://www.psy.ed.ac.uk/)  
+Evolution of psychological diversity w/Alex Weiss
+
+2008 **MSc Quantitative Genetics & Genome Analysis**  
+[University of Edinburgh](https://qgen.bio.ed.ac.uk/)  
+Heritability of dominance behavior w/Loeske Kruuk  
+
+2003 **BA Theoretical Biology**  
+[Cornell University](https://www.cornell.edu)  
+Artificial life and mathematical biology w/Hudson Kern Reeve and Hod Lipson
+
