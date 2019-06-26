@@ -4,15 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I study the evolution of individual differences and the genetic and environmental architecture of complex mental health traits.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I am a statistical geneticist in the [Mental Health Data Science Scotland](https://mhdss.ac.uk) group at the [University of Edinburgh](https://www.ed.ac.uk/profile/dr-mark-james-adams).
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+- [Google Scholar Profile](http://scholar.google.co.uk/citations?user=H1KpjEQAAAAJ&hl=en)
+- ORCID iD: [0000-0002-3599-6018](https://orcid.org/0000-0002-3599-6018
+)
