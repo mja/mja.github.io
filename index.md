@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+<img src="/assets/img/edinburgh_castlearthursseatbreathofthewildepiccomposition.png"/>
