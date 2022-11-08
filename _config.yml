@@ -21,6 +21,9 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://differentialist.info" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: mja
 github_username:  mja
+mastodon:
+ - username: markjamesadams
+   instance: mastodon.online
 
 # Build settings
 markdown: kramdown
