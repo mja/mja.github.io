@@ -23,7 +23,7 @@ twitter_username: mja
 github_username:  mja
 mastodon:
  - username: markjamesadams
-   instance: mastodon.online
+   instance: genomic.social
 
 # Build settings
 markdown: kramdown
