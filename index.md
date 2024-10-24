@@ -5,4 +5,4 @@
 layout: home
 ---
 
-<img src="/assets/img/edinburgh_castlearthursseatbreathofthewildepiccomposition.jpg"/>
+<img src="https://static.differentialist.info/file/mja-static/differentialist/splash/2019-02-23_501c_Portra160-160%2B0_1902d_04_Planar80.jpg"/>
