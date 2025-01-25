@@ -4,9 +4,11 @@ title: About
 permalink: /about/
 ---
 
+## Mark James Adams
+
 I study the evolution of individual differences and the genetic and environmental architecture of complex mental health traits.
 
-I am a statistical geneticist in [Mental Health at the University of Edinburgh](https://twitter.com/EdinUniMentalH) and lead analyst for the [Major Depressive Disorder Working Group of the Psychiatric Genomics Consortium](https://www.med.unc.edu/pgc/pgc-workgroups/major-depressive-disorder/).
+I am a statistical geneticist in the [Centre for Clinical Brain Sciences](https://clinical-brain-sciences.ed.ac.uk), Senior Bioinformatician for [Generation Scotland](http://generationscotland.org), and a lead analyst for the [Major Depressive Disorder Working Group of the Psychiatric Genomics Consortium](https://pgc.unc.edu).
 
 - [University Profile](https://www.ed.ac.uk/profile/dr-mark-james-adams)
 - [Google Scholar Profile](http://scholar.google.co.uk/citations?user=H1KpjEQAAAAJ&hl=en)
@@ -21,7 +23,7 @@ Evolution of psychological diversity w/Alex Weiss
 
 2008 **MSc Quantitative Genetics & Genome Analysis**  
 [University of Edinburgh](https://qgen.bio.ed.ac.uk/)  
-Heritability of dominance behavior w/Loeske Kruuk  
+Heritability of dominance behaviour w/Loeske Kruuk  
 
 2003 **BA Theoretical Biology**  
 [Cornell University](https://www.cornell.edu)  
